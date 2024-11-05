@@ -1,4 +1,4 @@
-name: update clash-meta.yaml
+name: update clash
 
 on:
   push:
